@@ -17,13 +17,13 @@ Tool Information Gathering Write With Python.
  ██║███╗██║██╔══╝  ██╔══██╗██╔═██╗ ██║██║     ██║     ██╔══╝  ██╔══██╗
  ╚███╔███╔╝███████╗██████╔╝██║  ██╗██║███████╗███████╗███████╗██║  ██║
  ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
- =====================================================================================================
- **                  WebSite : UltraSec.org                                                         **
- **                  Channel : @UltraSecurity                                                       **
- **                 Developers : Ultra Security Team                                                **
- **               Team Members : Ashkan Moghaddas , Behzad Khalifeh , AmirMohammad Safari           **
- **                   Thank's : .::Shayan::.                                                        **
- =====================================================================================================
+ ===============================================================================================
+ **                  WebSite : UltraSec.org                                                    **
+ **                  Channel : @UltraSecurity                                                  **
+ **                 Developers : Ultra Security Team                                           **
+ **               Team Members : Ashkan Moghaddas , Behzad Khalifeh , AmirMohammad Safari      **
+ **                   Thank's : .::Shayan::.                                                   **
+ ================================================================================================
           
  [卐] Choose one of the options below 
 
@@ -48,11 +48,14 @@ Tool Information Gathering Write With Python.
 - Ubuntu 19.10
 
 
-## Install
+## Installing...
 ```bash
 git clone https://github.com/ultrasecurity/webkiller.git
+
 cd webkiller
+
 pip3 install -r requirements.txt
+
 python3 webkiller.py 
 ```
 
